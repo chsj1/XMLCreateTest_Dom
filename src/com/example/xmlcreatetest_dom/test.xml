@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<classes>
+    <group
+        name="yinianji"
+        num="10" >
+        <person
+            name="xiaoming"
+            age="7" >
+            <chinese>
+chinese 90
+            </chinese>
+            <english>
+english 80
+            </english>
+        </person>
+    </group>
+</classes>
